@@ -1,2 +1,2 @@
-# Fake News Detection - Machine Learning And Intelligent Systems
+# Machine Learning and Intelligent System 
 
